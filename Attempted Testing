@@ -1,0 +1,7 @@
+Attempted Testing.
+
+freqItems(cols, support=None)
+
+crossJoin(other)
+
+cube(*cols)
